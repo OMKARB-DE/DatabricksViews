@@ -25,3 +25,12 @@ This repository provides a Databricks project that manages inventory and product
 ### Setup Steps
 
 1. Clone the repository:
+
+databricks-views/
+├── DatabricksViews.sql
+├── sample-data/
+│ └── sample-products.csv
+├── docs/
+│ └── view-design.md
+├── .gitignore
+├── README.md
