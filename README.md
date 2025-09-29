@@ -34,3 +34,7 @@ databricks-views/
 │ └── view-design.md
 ├── .gitignore
 ├── README.md
+
+
+
+<img width="776" height="409" alt="image" src="https://github.com/user-attachments/assets/5b9a4933-3f9c-4be6-a8e6-8a0d643953ae" />
