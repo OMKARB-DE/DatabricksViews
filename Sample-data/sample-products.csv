@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_qty,supplier,launch_date
+P001,Laptop X1,Electronics,1200.50,50,TechSupplier Inc,2025-01-05
+P002,Smartphone S10,Electronics,899.99,100,MobileWorld Ltd,2025-02-10
+P003,Gaming Chair G5,Furniture,250.75,25,ComfortCo,2025-03-15
+P004,Wireless Mouse M2,Electronics,35.60,200,TechSupplier Inc,2025-01-20
+P005,Coffee Maker C100,Kitchen,99.99,80,HomeAppliances Ltd,2025-04-05
+P006,Yoga Mat Y10,Sports,25.50,150,FitnessGear,2025-05-01
+P007,LED Monitor 27,Electronics,299.99,60,TechSupplier Inc,2025-02-25
+P008,Blender B200,Kitchen,75.40,70,HomeAppliances Ltd,2025-03-10
+P009,Office Desk D4,Furniture,180.00,40,ComfortCo,2025-01-30
+P010,Running Shoes R5,Sports,120.25,120,FitnessGear,2025-04-20
